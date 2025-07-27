@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# CIFAR‑10 data
+data/
+
+# Model checkpoints
+*.pth
+
+# Jupyter / figures
+*.png
+*.ipynb_checkpoints/
+
+# Environment folders
+venv/
+.env/
